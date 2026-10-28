@@ -22,7 +22,7 @@ Raw reports: `evidence/lighthouse-{index,privacy,support}-{mobile,desktop}.json`
 - Reduced motion: zero running animations. Pause and resume: pass. FAQ expand/collapse: pass. The animation toggle is also removed from focus order when reduced motion disables all motion.
 - Dark-mode axe-core 4.14.0, WCAG A/AA and 2.1 A/AA: no reported violations across the three pages. Landing's animated/hidden content retains one automated contrast item requiring manual review; this is recorded as incomplete, not silently counted as a pass. Screenshots were visually reviewed.
 - Local navigation and asset targets resolve; sitemap XML parses; no script elements. The 404 document renders, though Python's static server does not implement GitHub Pages' custom 404 routing.
-- Hero figure markup plus the entire shared stylesheet totals 58,367 bytes, below 60,000 bytes. No canvas, JavaScript, webfonts or animation library.
+- Hero figure markup plus the entire shared stylesheet totals 59,571 bytes, below 60,000 bytes. No canvas, JavaScript, webfonts or animation library.
 
 [Browser results](evidence/browser-checks.json) · [Dark-mode accessibility results](evidence/dark-accessibility.json)
 

@@ -5,7 +5,7 @@
       "width": 360,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "heading": "Training shaped\nby your recovery.",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -15,7 +15,7 @@
       "width": 360,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "Privacy, in plain words.",
+      "heading": "Privacy policy",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -25,7 +25,7 @@
       "width": 360,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "A little help.\nBack to your session.",
+      "heading": "Support",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -35,7 +35,7 @@
       "width": 360,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "heading": "Training shaped\nby your recovery.",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -45,7 +45,7 @@
       "width": 360,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "Privacy, in plain words.",
+      "heading": "Privacy policy",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -55,7 +55,7 @@
       "width": 360,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "A little help.\nBack to your session.",
+      "heading": "Support",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -65,7 +65,7 @@
       "width": 390,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "heading": "Training shaped\nby your recovery.",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -75,7 +75,7 @@
       "width": 390,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "Privacy, in plain words.",
+      "heading": "Privacy policy",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -85,7 +85,7 @@
       "width": 390,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "A little help.\nBack to your session.",
+      "heading": "Support",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -95,7 +95,7 @@
       "width": 390,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "heading": "Training shaped\nby your recovery.",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -105,7 +105,7 @@
       "width": 390,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "Privacy, in plain words.",
+      "heading": "Privacy policy",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -115,7 +115,7 @@
       "width": 390,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "A little help.\nBack to your session.",
+      "heading": "Support",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -125,7 +125,7 @@
       "width": 1440,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "heading": "Training shaped\nby your recovery.",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -135,7 +135,7 @@
       "width": 1440,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "Privacy, in plain words.",
+      "heading": "Privacy policy",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -145,7 +145,7 @@
       "width": 1440,
       "colorScheme": "light",
       "overflow": false,
-      "heading": "A little help.\nBack to your session.",
+      "heading": "Support",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -155,7 +155,7 @@
       "width": 1440,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "heading": "Training shaped\nby your recovery.",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -165,7 +165,7 @@
       "width": 1440,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "Privacy, in plain words.",
+      "heading": "Privacy policy",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
@@ -175,14 +175,14 @@
       "width": 1440,
       "colorScheme": "dark",
       "overflow": false,
-      "heading": "A little help.\nBack to your session.",
+      "heading": "Support",
       "externalResources": [],
       "runningAnimations": 0,
       "errors": []
     }
   ],
   "motion": {
-    "running": 75,
+    "running": 69,
     "paused": true,
     "resumed": true
   },
