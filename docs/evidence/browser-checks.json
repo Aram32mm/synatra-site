@@ -1,0 +1,190 @@
+{
+  "results": [
+    {
+      "name": "index",
+      "width": 360,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 360,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Privacy, in plain words.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 360,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "A little help.\nBack to your session.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 360,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 360,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Privacy, in plain words.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 360,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "A little help.\nBack to your session.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 390,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 390,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Privacy, in plain words.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 390,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "A little help.\nBack to your session.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 390,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 390,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Privacy, in plain words.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 390,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "A little help.\nBack to your session.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 1440,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 1440,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Privacy, in plain words.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 1440,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "A little help.\nBack to your session.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 1440,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Every muscle.\nTrained when\nit’s ready.\nLoaded right.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 1440,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Privacy, in plain words.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 1440,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "A little help.\nBack to your session.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    }
+  ],
+  "motion": {
+    "running": 117,
+    "paused": true,
+    "resumed": true
+  },
+  "faqToggles": true
+}
