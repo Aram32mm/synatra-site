@@ -10,22 +10,28 @@
     },
     "failures": [
       {
-        "id": "max-potential-fid",
-        "title": "Max Potential First Input Delay",
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
         "score": 0.99,
-        "displayValue": "80 ms"
+        "displayValue": "1.7 s"
       },
       {
         "id": "cache-insight",
         "title": "Use efficient cache lifetimes",
-        "score": 0.5,
-        "displayValue": "Est savings of 57 KiB"
+        "score": 0,
+        "displayValue": "Est savings of 200 KiB"
       },
       {
         "id": "document-latency-insight",
         "title": "Document request latency",
         "score": 0.5,
-        "displayValue": "Est savings of 31 KiB"
+        "displayValue": "Est savings of 29 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 113 KiB"
       },
       {
         "id": "network-dependency-tree-insight",
@@ -36,7 +42,7 @@
         "id": "render-blocking-insight",
         "title": "Render-blocking requests",
         "score": 0,
-        "displayValue": "Est savings of 40 ms"
+        "displayValue": "Est savings of 70 ms"
       }
     ]
   },
@@ -54,13 +60,13 @@
         "id": "unused-css-rules",
         "title": "Reduce unused CSS",
         "score": 0,
-        "displayValue": "Est savings of 11 KiB"
+        "displayValue": "Est savings of 15 KiB"
       },
       {
         "id": "cache-insight",
         "title": "Use efficient cache lifetimes",
         "score": 0,
-        "displayValue": "Est savings of 57 KiB"
+        "displayValue": "Est savings of 62 KiB"
       },
       {
         "id": "document-latency-insight",
@@ -77,7 +83,7 @@
         "id": "render-blocking-insight",
         "title": "Render-blocking requests",
         "score": 0,
-        "displayValue": "Est savings of 260 ms"
+        "displayValue": "Est savings of 290 ms"
       }
     ]
   },
@@ -95,13 +101,13 @@
         "id": "unused-css-rules",
         "title": "Reduce unused CSS",
         "score": 0,
-        "displayValue": "Est savings of 11 KiB"
+        "displayValue": "Est savings of 15 KiB"
       },
       {
         "id": "cache-insight",
         "title": "Use efficient cache lifetimes",
         "score": 0,
-        "displayValue": "Est savings of 57 KiB"
+        "displayValue": "Est savings of 62 KiB"
       },
       {
         "id": "document-latency-insight",
@@ -118,7 +124,7 @@
         "id": "render-blocking-insight",
         "title": "Render-blocking requests",
         "score": 0,
-        "displayValue": "Est savings of 240 ms"
+        "displayValue": "Est savings of 280 ms"
       }
     ]
   },
@@ -136,13 +142,19 @@
         "id": "cache-insight",
         "title": "Use efficient cache lifetimes",
         "score": 0.5,
-        "displayValue": "Est savings of 57 KiB"
+        "displayValue": "Est savings of 232 KiB"
       },
       {
         "id": "document-latency-insight",
         "title": "Document request latency",
         "score": 0.5,
-        "displayValue": "Est savings of 31 KiB"
+        "displayValue": "Est savings of 29 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 127 KiB"
       },
       {
         "id": "network-dependency-tree-insight",
@@ -170,13 +182,13 @@
         "id": "unused-css-rules",
         "title": "Reduce unused CSS",
         "score": 0,
-        "displayValue": "Est savings of 12 KiB"
+        "displayValue": "Est savings of 17 KiB"
       },
       {
         "id": "cache-insight",
         "title": "Use efficient cache lifetimes",
         "score": 0,
-        "displayValue": "Est savings of 57 KiB"
+        "displayValue": "Est savings of 62 KiB"
       },
       {
         "id": "document-latency-insight",
@@ -211,13 +223,13 @@
         "id": "unused-css-rules",
         "title": "Reduce unused CSS",
         "score": 0,
-        "displayValue": "Est savings of 12 KiB"
+        "displayValue": "Est savings of 16 KiB"
       },
       {
         "id": "cache-insight",
         "title": "Use efficient cache lifetimes",
         "score": 0,
-        "displayValue": "Est savings of 57 KiB"
+        "displayValue": "Est savings of 62 KiB"
       },
       {
         "id": "document-latency-insight",

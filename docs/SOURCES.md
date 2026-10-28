@@ -9,13 +9,13 @@ Reviewed October 27, 2026 (America/Los_Angeles). Read-only GitHub `main` archive
 
 - Frontend `docs/brand/BRAND.md`: the approved Eight, palette, fatigue/recovery meanings and voice.
 - `assets/mark-{light,dark}.svg` derive from `docs/brand/synatra-mark-on-{light,dark}.svg`. SVGO 4.1.0 removes metadata and optimizes markup without redrawing, recoloring or changing the composition.
-- Frontend `docs/design/tokens.json`: page/surface/ink/accent/readiness colors, separately for light and dark appearances. At the owner’s request, body fills mix the original readiness blue (78%) or fatigue red (76%) with the surface color in OKLab; the large headline uses the deeper recovered-blue token. The mark remains unchanged. System fonts follow the explicit website brief, rather than downloading Sora.
-- Hero silhouettes and muscle shapes derive from `docs/design/bodymap-v2.json`. Redundant points simplified with a 1.15-unit tolerance on the original 200 × 440 grid, then converted with the file's closed Catmull–Rom spline specification. Original mirroring rules retained. Both front and back shown; no new anatomy invented.
+- Frontend `docs/design/tokens.json`: page/surface/ink/accent/readiness colors, separately for light and dark appearances. The final design follows the owner’s request to match the actual app: exact current readiness tokens, no softened muscle-color mixes, 12/20 px grouped surfaces, source type scales and an 8 px split readiness legend. The mark remains unchanged. System fonts follow the explicit website brief, rather than downloading Sora.
+- Hero silhouettes and muscle shapes derive from `docs/design/bodymap-v2.json`. All authored points on the 200 × 440 grid are converted with the file’s closed Catmull–Rom spline specification. Bezier coordinates serialize to one decimal place and SVG path optimization removes redundant markup. Original mirroring, silhouette clipping, systemic tint, muscle volume and outline layers are retained. Both front and back are shown; no new anatomy is invented.
 - `docs/design/bodymap-female.json` inspected as an alternative geometry; the initial landing illustration uses the original male body map. This is a nonpersonalized product illustration.
 - Backend `src/main/kotlin/com/synatra/shared/MuscleTaxonomy.kt`: 22 muscle groups. Frontend `docs/WIRE_LEDGER.md` W41 explains why the 21-group figure has no separate traps shape.
 - Frontend `docs/design/DESIGN_SYSTEM.md`: readiness, session, check-in, reps in reserve.
-- PR #206 and `docs/listing/README.md`: approved App Store images and Watch interaction references. The website uses lightweight labeled mechanism illustrations, not the much larger listing images.
-- All numerical examples are illustrative, not a personal training recommendation. The watch view is explicitly labeled as an illustration.
+- PR #206 and `docs/listing/README.md`: approved App Store images and Watch interaction references. The Watch section uses the exact `docs/listing/apple-watch/05-the-watchs-set.png` screenshot, copied to `assets/watch-set.png`; its rest transition is labeled as an illustration. The loading section uses `docs/design/screens/r10-ramp-{light,dark}.png`, copied to `assets/`, so labels and control geometry match the app. Local screenshots load lazily.
+- All numerical examples are illustrative, not a personal training recommendation. The animated hero and rest transition are labeled as illustrations; the embedded app screens retain their sample data.
 
 ## Privacy and support
 
