@@ -22,7 +22,7 @@ Raw reports: `evidence/lighthouse-{index,privacy,support}-{mobile,desktop}.json`
 - Reduced motion: zero running animations. Pause and resume: pass. FAQ expand/collapse: pass. The animation toggle is also removed from focus order when reduced motion disables all motion.
 - Dark-mode axe-core 4.14.0, WCAG A/AA and 2.1 A/AA: no reported violations across the three pages. Landing's animated/hidden content retains one automated contrast item requiring manual review; this is recorded as incomplete, not silently counted as a pass. Screenshots were visually reviewed.
 - Local navigation and asset targets resolve; sitemap XML parses; no script elements. The 404 document renders, though Python's static server does not implement GitHub Pages' custom 404 routing.
-- Hero figure markup plus the entire shared stylesheet totals 59,883 bytes, below 60,000 bytes. No canvas, JavaScript, webfonts or animation library.
+- Hero figure markup plus the entire shared stylesheet totals 59,856 bytes, below 60,000 bytes. No canvas, JavaScript, webfonts or animation library.
 
 [Browser results](evidence/browser-checks.json) · [Dark-mode accessibility results](evidence/dark-accessibility.json)
 
@@ -41,3 +41,5 @@ All full-page screenshots below use reduced motion for deterministic comparison.
 The 12-second hero cycle compresses an illustrative 30-day overview, shifting focus about every 1.7 seconds across chest, back, shoulders, arms, core, upper legs and lower legs. Each region fatigues and recovers on its own offset; the whole figure never changes to one readiness state. Mirrored muscles share the same phase. The caption identifies the active region rather than displaying an aggregate percentage. Reduced motion shows a static chest-focused example. This sequence is illustrative, not engine output or a training recommendation.
 
 October 28 update: 48 quarter-second samples across the complete loop confirmed independently colored regions; see [regional-animation.json](evidence/regional-animation.json). Layout, pause/resume, reduced-motion, HTML and dark accessibility checks were rerun. Landing Lighthouse reports were refreshed; other page reports are from October 27.
+
+The regional colors fade continuously: the red-to-blue transition spans 4.44 seconds, followed by 2.4 seconds toward fully recovered blue. The next fatigue transition also eases in over 1.44 seconds. These illustrative transitions blend between the app’s color tokens rather than switching abruptly at the ramp boundary.
