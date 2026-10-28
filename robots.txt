@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://synatra.watch/sitemap.xml

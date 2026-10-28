@@ -1,0 +1,25 @@
+[
+  {
+    "page": "index",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
+      }
+    ],
+    "passes": 23
+  },
+  {
+    "page": "privacy",
+    "violations": [],
+    "incomplete": [],
+    "passes": 18
+  },
+  {
+    "page": "support",
+    "violations": [],
+    "incomplete": [],
+    "passes": 21
+  }
+]

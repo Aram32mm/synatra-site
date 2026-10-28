@@ -1,0 +1,190 @@
+{
+  "results": [
+    {
+      "name": "index",
+      "width": 360,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Training shaped\nby your recovery.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 360,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Privacy policy",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 360,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Support",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 360,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Training shaped\nby your recovery.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 360,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Privacy policy",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 360,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Support",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 390,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Training shaped\nby your recovery.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 390,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Privacy policy",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 390,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Support",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 390,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Training shaped\nby your recovery.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 390,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Privacy policy",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 390,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Support",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 1440,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Training shaped\nby your recovery.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 1440,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Privacy policy",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 1440,
+      "colorScheme": "light",
+      "overflow": false,
+      "heading": "Support",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 1440,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Training shaped\nby your recovery.",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "privacy",
+      "width": 1440,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Privacy policy",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    },
+    {
+      "name": "support",
+      "width": 1440,
+      "colorScheme": "dark",
+      "overflow": false,
+      "heading": "Support",
+      "externalResources": [],
+      "runningAnimations": 0,
+      "errors": []
+    }
+  ],
+  "motion": {
+    "running": 67,
+    "paused": true,
+    "resumed": true
+  },
+  "faqToggles": true
+}
